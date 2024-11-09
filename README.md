@@ -1,5 +1,9 @@
 # 1d20-5e-srd
 
+Moved to https://codeberg.org/random-wizard/1d20-5e-srd
+
+
+
 Example of using the csv files
 
     sqlite3 monsters_traits_base.db
